@@ -21,9 +21,9 @@ A 26 years old self-taught Software developer from Iran
 
 
 <div align="center">
-  <img src=https://github-readme-stats.vercel.app/api?username=faridvatani&hide_border=true&bg_color=191b1f&title_color=ed3135&text_color=fff&line_height=20&hide=["stars"] align="left" style="padding:0px !important"/>
+  <img src=https://github-readme-stats.vercel.app/api?username=faridvatani&hide_border=true&bg_color=191b1f&title_color=ed3135&text_color=fff&line_height=20&hide=["stars"] align="left" style="padding-right:0px !important"/>
   <br/>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=faridvatani&layout=compact&hide_border=true&bg_color=191b1f&title_color=ed3135&text_color=fff&hide=html,css&langs_count=4 align="right" style="padding:0px !important" />
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=faridvatani&layout=compact&hide_border=true&bg_color=191b1f&title_color=ed3135&text_color=fff&hide=html,css&langs_count=4 align="right" style="padding-left:0px !important" />
 </div>
 <br/>
 <div align="center">  
