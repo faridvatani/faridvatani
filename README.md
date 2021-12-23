@@ -17,15 +17,21 @@ A 26 years old self-taught Software developer from Iran
 <a href=https://t.me/faridvatani target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height="20" width="20" /></a>
 </p>
 
-<br/>  
+<!--   <img src=https://github-readme-streak-stats.herokuapp.com?user=faridvatani&theme=bear&hide_border=true&date_format=j%20M%5B%20Y%5D&background=191B1F&fire=ed3135&ring=ed3135&stroke=FFFFFF88&sideNums=ed3135&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF76 /> -->
+  <br/>
 
-<p align="center">
-  <img src=https://github-readme-stats.vercel.app/api?username=faridvatani&hide_border=true&bg_color=191b1f&title_color=ed3135&text_color=fff&line_height=20&hide=["stars"] />
+
+<p align="left">
+  <img src=https://github-readme-stats.vercel.app/api?username=faridvatani&hide_border=true&bg_color=191b1f&title_color=ed3135&text_color=fff&line_height=20&hide=["stars"] align="left"/>
   <br/>
-  <img src=https://github-readme-streak-stats.herokuapp.com?user=faridvatani&theme=bear&hide_border=true&date_format=j%20M%5B%20Y%5D&background=191B1F&fire=ed3135&ring=ed3135&stroke=FFFFFF88&sideNums=ed3135&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF76 />
-  <br/>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=faridvatani&layout=compact&hide_border=true&bg_color=191b1f&title_color=ed3135&text_color=fff&hide=html,css&langs_count=4 />
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=faridvatani&layout=compact&hide_border=true&bg_color=191b1f&title_color=ed3135&text_color=fff&hide=html,css&langs_count=4 align="right" width="400"/>
 </p>
+<br/>
+<div align="center">  
+ <img src="https://activity-graph.herokuapp.com/graph?username=faridvatani&bg_color=0d0c0d&color=FFFFFF88&line=ed3135&point=FFFFFF88&area=false&hide_border=true" alt="faridvatani">
+</div>
+
+
 
 <br/>
 
