@@ -25,7 +25,7 @@ A 26 years old self-taught Software developer from Iran
 
 <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Farid Vatani</h1>
 
-💼&nbsp;&nbsp;&nbsp;Web Developer at <a href="https://grupotks.com/">TKS</a>
+💼&nbsp;&nbsp;&nbsp;Web Developer at <a href="https://karnostudio.com/">Karno Studio</a>
 
 🌱&nbsp;&nbsp;&nbsp;I’m currently learning **TypeScript** & **JavaScript**
 
