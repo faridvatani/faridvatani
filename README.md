@@ -10,7 +10,7 @@
 </p> 
 
 
-💼 &nbsp;&nbsp;&nbsp;Web Developer at <a href="https://karnostudio.com/">Karno Studio</a>
+💼 &nbsp;&nbsp;&nbsp;Font-End Engineer at <a href="https://cheatto.dev">@Cheatto</a>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
 
