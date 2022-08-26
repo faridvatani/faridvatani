@@ -20,7 +20,19 @@
 
 ✍️ &nbsp;In my free time, I pursue movies and reading books.
 
-📫&nbsp;&nbsp;&nbsp;Email me at faridvatani[at]gmail.com
+📫&nbsp;&nbsp;&nbsp;Email me at faridvatani[at]gmail[dot]com
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/faridvatani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="#" height="30" width="40" /></a>
+<a href="https://dev.to/faridvatani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="#" height="30" width="40" /></a>
+<a href="https://twitter.com/faridvatani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faridvatrani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/faridvatani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7954299/farid-vatani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="#" height="30" width="40" /></a>
+<a href="https://instagram.com/farid_landi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="#" height="30" width="40" /></a>
+<a href="https://medium.com/@faridvatani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@" height="30" width="40" /></a>
+<a href="https://leetcode.com/faridvatani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="#" height="30" width="40" /></a>
+</p>
 
 ## Statistics
 
