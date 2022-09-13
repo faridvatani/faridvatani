@@ -1,6 +1,12 @@
 
 <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Farid Vatani</h1>
-
+<a href="https://app.daily.dev/faridvatani" target="_blank">
+  <img
+    width="256"
+    align="right"
+    src="https://api.daily.dev/devcards/1a70eef61c0948a99c18e3c4b80f12dc.png?r=iq5"
+  />
+</a>
 
 💼 &nbsp;&nbsp;&nbsp;Font-End Engineer at <a href="https://cheatto.dev">@Cheatto</a>
 
