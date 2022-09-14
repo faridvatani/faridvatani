@@ -4,7 +4,8 @@
   <img
     width="256"
     align="right"
-    src="https://api.daily.dev/devcards/1a70eef61c0948a99c18e3c4b80f12dc.png?r=my8"
+    src="https://api.daily.dev/devcards/1a70eef61c0948a99c18e3c4b80f12dc.png?r=0qu"
+    alt="Farid Vatani's Dev Card"
   />
 </a>
 
