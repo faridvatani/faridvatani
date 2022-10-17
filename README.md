@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Farid Vatani</h1>
-<div style="display: flex;flex-direction: column;">
+ 
   <a href="https://app.daily.dev/faridvatani" target="_blank">
     <img
       width="256"
@@ -9,6 +9,7 @@
       alt="Farid Vatani's Dev Card"
     />
   </a>
+<!--  StackOverFlow
   <a href="https://stackexchange.com/users/10815000" target="_blank">
     <img src="https://stackexchange.com/users/flair/10815000.png"
       width="208" 
@@ -17,8 +18,9 @@
       alt="profile for Farid Vatani on Stack Exchange, a network of free, community-driven Q&amp;A sites"
       title="profile for Farid Vatani on Stack Exchange, a network of free, community-driven Q&amp;A sites"
      />
-  </a>
-</div>
+  </a> 
+-->
+  
 💼 &nbsp;&nbsp;&nbsp;Font-End Engineer at <a href="https://cheatto.dev">@Cheatto</a>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
