@@ -1,14 +1,15 @@
 
 <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Farid Vatani</h1>
-<a href="https://app.daily.dev/faridvatani" target="_blank">
-  <img
-    width="256"
-    align="right"
-    src="https://github.com/faridvatani/faridvatani/blob/main/devcard.svg"
-    alt="Farid Vatani's Dev Card"
-  />
-</a>
-
+<div style="display: flex;flex-direction: column;">
+  <a href="https://app.daily.dev/faridvatani" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://github.com/faridvatani/faridvatani/blob/main/devcard.svg"
+      alt="Farid Vatani's Dev Card"
+    />
+  </a>
+</div>
 💼 &nbsp;&nbsp;&nbsp;Font-End Engineer at <a href="https://cheatto.dev">@Cheatto</a>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
@@ -33,7 +34,19 @@
 <a href="https://leetcode.com/faridvatani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="#" height="30" width="40" /></a>
 </p>
 
+
 ### Languages and Tools:
+
+<a href="https://stackexchange.com/users/10815000" target="_blank">
+  <img src="https://stackexchange.com/users/flair/10815000.png"
+    width="208" 
+    height="58" 
+    align="right" 
+    alt="profile for Farid Vatani on Stack Exchange, a network of free, community-driven Q&amp;A sites"
+    title="profile for Farid Vatani on Stack Exchange, a network of free, community-driven Q&amp;A sites"
+   />
+</a>
+  
 <p align="left">
   
 ###### - Programming Languages: 
