@@ -5,7 +5,7 @@
     <img
       width="256"
       align="right"
-      src="https://github.com/faridvatani/faridvatani/blob/main/devcard.svg"
+      src="https://api.daily.dev/devcards/v2/8AFpESdDf8VK54kLdvHJu.png?type=default&r=vgz"
       alt="Farid Vatani's Dev Card"
     />
   </a>
