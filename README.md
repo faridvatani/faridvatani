@@ -23,7 +23,7 @@
 
 I'm a Frontend Engineer. Started my career with many startups using various languages and tools such as JavaScript, TypeScript, PHP and MySQL. These days I'm deeply focusing on frontend environment and working with languages and tools such as JavaScript, TypeScript, React.js, Next.js, Tailwind, etc.
 
-💼 &nbsp;&nbsp;&nbsp;Font-End Engineer at <a href="https://cheatto.dev">@Cheatto</a>
+💼 &nbsp;&nbsp;&nbsp;Font-End Engineer at <a href="https://frontatic.com">@Frontatic</a>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
 
