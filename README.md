@@ -71,13 +71,14 @@ I'm a Frontend Engineer. Started my career with many startups using various lang
    -->
 </p>
 
+<!--
 ### Statistics
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=faridvatani&show_icons=true&theme=radical&line_height=40">
   <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=faridvatani&theme=radical">
 </p>
-
+-->
 
 <!--
 **faridvatani/faridvatani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
