@@ -21,13 +21,13 @@
   </a> 
 -->
 
-I'm a Frontend Engineer. Started my career with many startups using various languages and tools such as JavaScript, TypeScript, PHP and MySQL. These days I'm deeply focusing on frontend environment and working with languages and tools such as JavaScript, TypeScript, React.js, Next.js, Tailwind, etc.
+I'm a Software Engineer. I Started my career with many startups using various languages and tools such as JavaScript, TypeScript, PHP and MySQL. These days I'm deeply focusing on frontend environment and working with languages and tools such as JavaScript, TypeScript, React.js, Next.js, Tailwind, etc.
 
-💼 &nbsp;&nbsp;&nbsp;Font-End Engineer at <a href="https://frontatic.com">@Frontatic</a>
+💼 &nbsp;&nbsp;&nbsp;Software Engineer at <a href="https://gistbrief.com">@gistbrief</a>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
 
-🌱&nbsp;&nbsp;&nbsp;I’m currently learning **TypeScript** & **JavaScript**
+🌱&nbsp;&nbsp;&nbsp;I’m currently learning **TypeScript**, **Nextjs** & **TanStack**
 
 💬 &nbsp;Feel free to reach out to me for Any oportunity full time or part time.
 
